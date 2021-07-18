@@ -1,6 +1,5 @@
-$i = 1
+for ($i = 1 ; $i -le 9999 ; $i--)
 do {
     Write-Host "Free rdp by Zrawh #$i"
     Sleep 60
-    $i--
-} until ($i -le 9999)
+    }
