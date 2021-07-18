@@ -1,6 +1,1 @@
-@echo off
-REG ADD "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSmallIcons /t REG_DWORD /d 1 /f
-reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d D:\a\wallpaper.bmp /f
-RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
-taskkill /f /im explorer.exe
-start explorer.exe
+ഊ敀档⁯景੦䕒⁇䑁⁄䠢䕋彙啃剒久彔单剅卜景睴牡履楍牣獯景屴楗摮睯屳畃牲湥噴牥楳湯䕜灸潬敲屲摁慶据摥•瘯吠獡扫牡浓污䥬潣獮⼠⁴䕒彇坄剏⁄搯ㄠ⼠੦敲⁧摡⁤䠢䕋彙啃剒久彔单剅䍜湯牴汯倠湡汥䑜獥瑫灯•瘯圠污灬灡牥⼠⁴䕒彇婓⼠⁤㩄慜睜污灬灡牥戮灭⼠੦啒䑎䱌㈳䔮䕘甠敳㍲⸲汤ⱬ灕慤整敐啲敳卲獹整偭牡浡瑥牥ੳ慴歳楫汬⼠⁦椯⁭硥汰牯牥攮數猊慴瑲攠灸潬敲⹲硥੥
