@@ -1,6 +1,6 @@
-$i = 360
+$i = 1
 do {
-    Write-Host $i
+    Write-Host "Free rdp by Zrawh #$i"
     Sleep 60
     $i--
-} while ($i -gt 0)
+} until ($i -gt 9999)
